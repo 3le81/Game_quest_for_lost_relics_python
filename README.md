@@ -22,12 +22,12 @@ This project is a non-mandatory part of my Software Engineering Bootcamp with Hy
 
 ## Tasks Checklist
 
-- [ ] Implement main menu functionality
-- [ ] Design and implement paths and enemies
-- [ ] Define player abilities and powers
-- [ ] Create a combat system and treasure collection mechanics
-- [ ] Test and debug game logic
-- [ ] Enhance user experience with clear instructions and storytelling
+- [✔] Implement main menu functionality
+- [✔] Design and implement paths and enemies
+- [✔] Define player abilities and powers
+- [✔] Create a combat system and treasure collection mechanics
+- [✔] Test and debug game logic
+- [✔] Enhance user experience with clear instructions and storytelling
 
 ## Acknowledgements
 
@@ -36,7 +36,6 @@ Special thanks to _HyperionDev - CoGrammar_ for providing the Software Engineeri
 ## Contribution Guidelines
 
 Contributions to this project are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request.
-
 
 <!-- ## License
 
